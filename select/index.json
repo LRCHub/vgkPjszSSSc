@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "倶楽部カシオペア",
+  "base_artist": "ナユタン星人",
+  "createdAt": "2025-12-03T14:00:06.162264Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "倶楽部カシオペア",
+      "artist": "ナユタン星人",
+      "has_synced": false,
+      "path": "select/pl_01_倶楽部カシオペア_ナユタン星人.txt"
+    }
+  ]
+}
